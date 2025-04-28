@@ -1,57 +1,57 @@
-# 📊 Data Science in Action: Telecom Customer Revenue Analysis
+📊 Telecom Customer Revenue Analysis
+Welcome to my data science project on Telecom Customer Revenue Analysis, completed as part of the INT375 course at Lovely Professional University, under the guidance of Dr. Diraj Kapila.
 
-I'm thrilled to share my recent data science project, completed as part of the **INT375** course at **Lovely Professional University**, under the guidance of **Dr. Diraj Kapila**.
+🔍 Project Overview
+This project involved a detailed analysis of telecom customer revenue data, exploring key patterns and relationships using Python-based data analysis and statistical techniques.
 
-## 🔍 Project Overview
+✅ Key Objectives
+Analyze the relationship between customer tenure and total revenue.
 
-This project involved an in-depth analysis of **telecom customer revenue data**, where I explored various patterns and relationships using Python-based data analysis and statistical techniques.
+Identify patterns in service adoption and suggest bundling opportunities.
 
-## ✅ Key Objectives
+Investigate the impact of payment methods on billing behavior.
 
-- Analyze the relationship between **customer tenure** and **total revenue**
-- Identify patterns in **service adoption** and potential bundling opportunities
-- Investigate the impact of **payment methods** on billing behavior
-- Perform statistical testing to uncover meaningful differences and relationships
-- Detect and visualize **outliers** in key billing metrics
+Perform statistical testing to discover significant differences and trends.
 
-## 📌 Major Insights
+Detect and visualize outliers in key billing metrics.
 
-- **Long-term customers** generate significantly more revenue over time.
-- **Streaming services** and **technical support** present cross-sell opportunities.
-- Customers using **electronic checks** tend to incur higher monthly charges.
-- **Churn rate** is closely linked to the **type of customer contract**.
-- The **average monthly charge** significantly differs from a $70 baseline (p-value < 0.05).
+📌 Major Insights
+Long-term customers contribute significantly more revenue over time.
 
-## 🔬 Statistical Methods Used
+Opportunities exist for cross-selling streaming services and technical support.
 
-- **T-tests**
-- **Z-tests**
-- **ANOVA**
-- **Chi-square tests**
+Customers paying via electronic checks tend to have higher monthly charges.
 
-## 📉 Visual & Statistical Exploration
+Churn rate is highly influenced by the type of customer contract.
 
-- Identified and visualized **outliers** in both `MonthlyCharges` and `TotalCharges`
-- Uncovered meaningful trends via **box plots**, **histograms**, and **heatmaps**
+The average monthly charge differs significantly from a $70 benchmark (p-value < 0.05).
 
-## 🧰 Tools & Libraries
+🔬 Statistical Methods Used
+T-tests
 
-- `Pandas` for data manipulation  
-- `Seaborn` and `Matplotlib` for visualization  
-- `SciPy` and `Statsmodels` for statistical testing  
+Z-tests
 
-## 🧠 Skills Gained
+ANOVA
 
-This hands-on analysis sharpened my skills in:
-- Exploratory Data Analysis (EDA)
-- Data visualization and storytelling
-- Statistical hypothesis testing
-- Data-driven business decision making
+Chi-square tests
 
----
+📉 Visual & Statistical Exploration
+Identified and visualized outliers in MonthlyCharges and TotalCharges.
 
-## 🤝 Let's Connect
+Uncovered meaningful patterns through box plots, histograms, and heatmaps.
 
-I'm excited to network with professionals in **data analytics**, **customer retention**, and **telecom research**.  
-Feel free to reach out or connect on [LinkedIn](#)!
+🧰 Tools & Libraries
+Pandas — for data manipulation
 
+Seaborn and Matplotlib — for visualization
+
+SciPy and Statsmodels — for statistical testing
+
+🧠 Skills Gained
+Exploratory Data Analysis (EDA)
+
+Data visualization and storytelling
+
+Statistical hypothesis testing
+
+Data-driven business decision making
